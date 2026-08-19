@@ -10,7 +10,7 @@ def run():
     """Run the blog writing crew application."""
     crew_instance = BlogWritingCrew()
     inputs = {
-        "topic": "How to Learn Programming as a Beginner",
+        "topic": "How AI is Revolutionizing Technology in 2026",
         "current_year": str(datetime.now().year),
     }
     return crew_instance.crew().kickoff(inputs=inputs)
