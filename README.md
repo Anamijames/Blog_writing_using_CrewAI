@@ -1,7 +1,5 @@
 # Build a Blog Writing Crew with CrewAI
 
-**Project Link:** [View Project](http://nextwork.ai/projects/ai-crewai-blog-writing-crew)
-
 **Author:** Anami James A 
 **Email:** 22iot-anamijames4168@yit.edu.in
 
